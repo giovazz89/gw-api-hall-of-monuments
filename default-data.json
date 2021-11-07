@@ -1,0 +1,755 @@
+{
+  "character": {
+    "devotion": {
+      "Common": 7,
+      "Uncommon": 7,
+      "Rare": 7,
+      "Unique": 7
+    },
+    "fellowship": {
+      "Zenmai": 1,
+      "Norgu": 1,
+      "Goren": 1,
+      "Zhed Shadowhoof": 1,
+      "General Morgahn": 1,
+      "Margrid the Sly": 1,
+      "Tahlkora": 1,
+      "Razah": 1,
+      "Master of Whispers": 1,
+      "Koss": 1,
+      "Dunkoro": 1,
+      "Melonni": 1,
+      "Acolyte Jin": 1,
+      "Acolyte Sousuke": 1,
+      "Vekk": 1,
+      "Livia": 1,
+      "Hayda": 1,
+      "Ogden Stonehealer": 1,
+      "Pyre Fierceshot": 1,
+      "Jora": 1,
+      "Kahmu": 1,
+      "Xandra": 1,
+      "Anton": 1,
+      "Gwen": 1,
+      "Animal Companion": 1,
+      "Black Moa": 1,
+      "Imperial Phoenix": 1,
+      "Black Widow Spider": 1,
+      "Olias": 1,
+      "M.O.X.": 1
+    },
+    "honor": {
+      "Eternal Champion": 1,
+      "Eternal Commander": 1,
+      "Eternal Skillz": 1,
+      "Eternal Gladiator": 1,
+      "Eternal Hero": 1,
+      "Eternal Lightbringer": 1,
+      "Eternal Bookah": 1,
+      "Eternal Delver": 1,
+      "Eternal Slayer": 1,
+      "Eternal Ebon Vanguard Agent": 1,
+      "Eternal Defender of Ascalon": 1,
+      "Eternal Tyrian Cartographer": 1,
+      "Eternal Guardian of Tyria": 1,
+      "Eternal Protector of Tyria": 1,
+      "Eternal Tyrian Skill Hunter": 1,
+      "Eternal Tyrian Vanquisher": 1,
+      "Eternal Canthan Cartographer": 1,
+      "Eternal Guardian of Cantha": 1,
+      "Eternal Protector of Cantha": 1,
+      "Eternal Canthan Skill Hunter": 1,
+      "Eternal Canthan Vanquisher": 1,
+      "Eternal Savior of the Kurzicks": 1,
+      "Eternal Savior of the Luxons": 1,
+      "Eternal Elonian Cartographer": 1,
+      "Eternal Guardian of Elona": 1,
+      "Eternal Protector of Elona": 1,
+      "Eternal Elonian Skill Hunter": 1,
+      "Eternal Elonian Vanquisher": 1,
+      "Eternal Ale-Hound": 1,
+      "Eternal Party Animal": 1,
+      "Eternal Master of the North": 1,
+      "Eternal Legendary Cartographer": 1,
+      "Eternal Legendary Guardian": 1,
+      "Eternal Legendary Skill Hunter": 1,
+      "Eternal Legendary Vanquisher": 1,
+      "Eternal Fortune": 1,
+      "Eternal Sweet Tooth": 1,
+      "Eternal Spearmarshal": 1,
+      "Eternal Survivor": 1,
+      "": 1,
+      "Eternal Treasure Hunter": 1,
+      "Eternal Misfortune": 1,
+      "Eternal Source of Wisdom": 1,
+      "Eternal Hero of Tyria": 1,
+      "Eternal Hero of Cantha": 1,
+      "Eternal Hero of Elona": 1,
+      "Eternal Conqueror of Sorrow's Furnace": 1,
+      "Eternal Conqueror of the Deep": 1,
+      "Eternal Conqueror of Urgoz's Warren": 1,
+      "Eternal Conqueror of the Fissure of Woe": 1,
+      "Eternal Conqueror of the Underworld": 1,
+      "Eternal Conqueror of the Domain of Anguish": 1,
+      "Eternal Zaishen Supporter": 1,
+      "Eternal Codex Disciple": 1
+    },
+    "resilience": {
+      "Elite Canthan Armor": 1,
+      "Elite Exotic Armor": 1,
+      "Elite Kurzick Armor": 1,
+      "Elite Luxon Armor": 1,
+      "Imperial Ascended Armor": 1,
+      "Ancient Armor": 1,
+      "Elite Sunspear Armor": 1,
+      "Vabbian Armor": 1,
+      "Primeval Armor": 1,
+      "Asuran Armor": 1,
+      "Norn Armor": 1,
+      "Silver Eagle Armor": 1,
+      "Monument Armor": 1,
+      "Obsidian Armor": 1,
+      "Granite Citadel Elite Armor": 1,
+      "Granite Citadel Exclusive Armor": 1,
+      "Granite Citadel Ascended Armor": 1,
+      "Marhan's Grotto Elite Armor": 1,
+      "Marhan's Grotto Exclusive Armor": 1,
+      "Marhan's Grotto Ascended Armor": 1
+    },
+    "valor": {
+      "Destroyer Axe": 1,
+      "Destroyer Bow": 1,
+      "Destroyer Daggers": 1,
+      "Destroyer Focus": 1,
+      "Destroyer Maul": 1,
+      "Destroyer Scepter": 1,
+      "Destroyer Scythe": 1,
+      "Destroyer Shield": 1,
+      "Destroyer Spear": 1,
+      "Destroyer Staff": 1,
+      "Destroyer Sword": 1,
+      "Tormented Axe": 1,
+      "Tormented Bow": 1,
+      "Tormented Daggers": 1,
+      "Tormented Focus": 1,
+      "Tormented Maul": 1,
+      "Tormented Scepter": 1,
+      "Tormented Scythe": 1,
+      "Tormented Shield": 1,
+      "Tormented Spear": 1,
+      "Tormented Staff": 1,
+      "Tormented Sword": 1,
+      "Oppressor Axe": 1,
+      "Oppressor Bow": 1,
+      "Oppressor Daggers": 1,
+      "Oppressor Focus": 1,
+      "Oppressor Maul": 1,
+      "Oppressor Scepter": 1,
+      "Oppressor Scythe": 1,
+      "Oppressor Shield": 1,
+      "Oppressor Spear": 1,
+      "Oppressor Staff": 1,
+      "Oppressor Sword": 1
+    }
+  },
+  "rewards": {
+    "regular": [
+      [
+        {
+          "name": "Heritage Shoes, Boots, Warboots",
+          "desc": "Heritage footwear for light, medium, and heavy armor professions",
+          "ldesc": "Heritage footwear that evokes the majesty of bygone days for light, medium, and heavy armor professions."
+        }
+      ],
+      [
+        {
+          "name": "Heritage Pants, Legguards, Legplates",
+          "desc": "Heritage legwear for light, medium, and heavy armor professions",
+          "ldesc": "Heritage legwear that give your Guild Wars 2 character a classic look whether they wear light, medium, or heavy armor."
+        }
+      ],
+      [
+        {
+          "name": "Heritage Great Coat, Jerkin, Warplate",
+          "desc": "Heritage coats for light, medium, and heavy armor professions",
+          "ldesc": "Vintage Tyrian clothing with different designs for light, medium, and heavy armor professions."
+        }
+      ],
+      [
+        {
+          "name": "Heritage Gloves, Armguards, Gauntlets",
+          "desc": "Heritage handwear for light, medium, and heavy armor professions",
+          "ldesc": "Legacy gloves from Tyrian history designed for light, medium, and heavy armor professions."
+        }
+      ],
+      [
+        {
+          "name": "Heritage Mantle, Shoulderpads, Pauldrons",
+          "desc": "Heritage shoulder covering for light, medium, and heavy armor professions",
+          "ldesc": "Pieces of shoulder armor that recall centuries past, designed for light, medium, and heavy armor professions."
+        }
+      ],
+      [
+        {
+          "name": "Heritage Masque, Bandana, Warhelm",
+          "desc": "Heritage headwear for light, medium, and heavy armor professions",
+          "ldesc": "Headwear from Tyrian history for light, medium, and heavy armor professions."
+        }
+      ],
+      [
+        {
+          "name": "Gnarled Walking Stick",
+          "desc": "An ancient staff",
+          "ldesc": "A gnarled old staff that glows with ancient power."
+        }
+      ],
+      [
+        {
+          "name": "Living Shortbow",
+          "desc": "An organic bow",
+          "ldesc": "A vine-wrapped living weapon."
+        }
+      ],
+      [
+        {
+          "name": "Orange Tabby Cat",
+          "desc": "A feline mini-pet",
+          "ldesc": "An orange cat mini-pet that will keep your Guild Wars 2 character company."
+        }
+      ],
+      [
+        {
+          "name": "Fiery Dragon Sword",
+          "desc": "A flaming dragon blade",
+          "ldesc": "A stylized fire-breathing dragon sword."
+        }
+      ],
+      [
+        {
+          "name": "Diamond Aegis",
+          "desc": "A brilliant diamond shield",
+          "ldesc": "A dazzling diamond defense."
+        }
+      ],
+      [
+        {
+          "name": "Baroque Mask",
+          "desc": "An elegant harlequin mask",
+          "ldesc": "A baroque mask that recalls the festivals of old."
+        }
+      ],
+      [
+        {
+          "name": "Centurion's Claw",
+          "desc": "A double-bladed dagger",
+          "ldesc": "A deadly double-bladed dagger worthy of a charr centurion."
+        }
+      ],
+      [
+        {
+          "name": "Wheelock Rifle",
+          "desc": "An antique rifle",
+          "ldesc": "A vintage, handcrafted rifle that still packs a punch."
+        }
+      ],
+      [
+        {
+          "name": "Orrian Baby Chicken",
+          "desc": "An oddly lovable mini-pet",
+          "ldesc": "A creepy, cute little bird mini-pet from corrupted Orr."
+        },
+        {
+          "name": "Black Moa",
+          "desc": "A dark-feathered moa for rangers",
+          "ldesc": "A dark-feathered moa animal companion for your ranger."
+        }
+      ],
+      [
+        {
+          "name": "Wayward Wand",
+          "desc": "A clawed scepter",
+          "ldesc": "A clawed wand that pulses with power. "
+        }
+      ],
+      [
+        {
+          "name": "Seathunder Pistol",
+          "desc": "An aquatic themed pistol",
+          "ldesc": "An aquatic pistol with a fishy look."
+        }
+      ],
+      [
+        {
+          "name": "Heavenly Bracers",
+          "desc": "Gauntlets of Dwayna",
+          "ldesc": "Bracers that bear the visage of the human goddess Dwayna."
+        }
+      ],
+      [
+        {
+          "name": "Deldrimor Mace",
+          "desc": "An ancient dwarven mace",
+          "ldesc": "A dwarven weapon forged in the ancient kingdom of Deldrimor."
+        }
+      ],
+      [
+        {
+          "name": "Chimeric Prism",
+          "desc": "A brilliant, colorful focus",
+          "ldesc": "A colorful focus for your spellcaster."
+        },
+        {
+          "name": "Rainbow Jellyfish",
+          "desc": "A spineless aquatic companion for your ranger",
+          "ldesc": "A luminous, multi-colored jellyfish animal companion for your ranger."
+        }
+      ],
+      [
+        {
+          "name": "Rockfur Raccoon",
+          "desc": "A woodland mini-pet",
+          "ldesc": "A rascally raccoon minipet for your Guild Wars 2 character."
+        }
+      ],
+      [
+        {
+          "name": "Ithas Longbow",
+          "desc": "A legendary longbow",
+          "ldesc": "A bow just like the famed longbow wielded by the hero Lieutenant Thackeray during the Krytan Civil War."
+        }
+      ],
+      [
+        {
+          "name": "Fellblade",
+          "desc": "An ominous greatsword",
+          "ldesc": "An ominous, intimidating greatsword."
+        }
+      ],
+      [
+        {
+          "name": "Icelord's Diadem",
+          "desc": "An icy crown",
+          "ldesc": "A mystical icy crown that won't give you a cold headache."
+        }
+      ],
+      [
+        {
+          "name": "Ice Breaker",
+          "desc": "A mighty hammer of ice",
+          "ldesc": "A gleaming mallet of indestructible ice."
+        },
+        {
+          "name": "White Raven Skin",
+          "desc": "A white-feathered raven for your ranger",
+          "ldesc": "A rare albino raven animal companion for your ranger."
+        }
+      ],
+      [
+        {
+          "name": "Flaming Beacon",
+          "desc": "An eternally burning torch",
+          "ldesc": "A blazing, stylized torch whose flame never falters."
+        }
+      ],
+      [
+        {
+          "name": "Red Servitor Golem",
+          "desc": "A loyal golem mini-pet",
+          "ldesc": "A golem mini-pet that will happily tag along with you - just don't expect him to fight!"
+        }
+      ],
+      [
+        {
+          "name": "Stygian Reaver",
+          "desc": "A long sought-after axe",
+          "ldesc": "An extremely rare axe of impressive power."
+        }
+      ],
+      [
+        {
+          "name": "Mountaincall Warhorn",
+          "desc": "A great horn from antiquity",
+          "ldesc": "A fabled horn that recalls the glory of the lost human kingdom of Ascalon."
+        }
+      ],
+      [
+        {
+          "name": "Fire God's Vambraces",
+          "desc": "Fiery gloves of the human god Balthazar",
+          "ldesc": "A set of flaming bracers that bear the image of Balthazar, human god of fire and war."
+        },
+        {
+          "name": "Black Widow Spider",
+          "desc": "A deadly spider companion for your ranger",
+          "ldesc": "A sinister spider animal companion for your ranger."
+        }
+      ]
+    ],
+    "special": {
+      "partial": {
+        "name": "All reward items unlocked!",
+        "desc": "Ready to really test yourself? Unlock the remaining titles to secure your place in Tyrian history!"
+      },
+      "max": {
+        "name": "M-M-M-M-M-MONSTER KILL!",
+        "desc": "Seriously, you crazy."
+      }
+    }
+  },
+  "titles": {
+    "5": "Traveler",
+    "10": "Guild Warrior",
+    "15": "Rift Warden",
+    "20": "Chosen",
+    "25": "Ascendant",
+    "30": "Closer to the Stars",
+    "35": "Ghostly Hero",
+    "40": "Flameseeker",
+    "45": "Legend of the Mists",
+    "50": "Champion of the Gods",
+    "desc": "Reward Title"
+  },
+  "cols": {
+    "order": [
+      "devotion",
+      "fellowship",
+      "honor",
+      "resilience",
+      "valor"
+    ],
+    "details": {
+      "devotion": {
+        "total": 8,
+        "title": "Devotion",
+        "btn": "View Minipets",
+        "current": 0
+      },
+      "fellowship": {
+        "total": 8,
+        "title": "Fellowship",
+        "btn": "View Heroes & Pets",
+        "current": 0
+      },
+      "honor": {
+        "total": 18,
+        "title": "Honor",
+        "btn": "View Titles",
+        "current": 0
+      },
+      "resilience": {
+        "total": 8,
+        "title": "Resilience",
+        "btn": "View Armor",
+        "current": 0
+      },
+      "valor": {
+        "total": 8,
+        "title": "Valor",
+        "btn": "View Weapons",
+        "current": 0
+      }
+    }
+  },
+  "urls": {
+    "wiki": {
+      "_base": "http://wiki.guildwars.com/wiki/",
+      "resilience": "%22Resilience%22#Statues",
+      "devotion": "%22Devotion%22",
+      "fellowship": "%22Fellowship%22",
+      "honor": "%22Honor%22",
+      "valor": "%22Valor%22#Gallery"
+    }
+  },
+  "rules": {
+    "valor": [
+      {
+        "title": "Any Weapon Statue",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 1
+      },
+      {
+        "title": "Destroyer Weapon Statue",
+        "value": 1,
+        "unlock_with": "Destroyer",
+        "unlock_count": 1
+      },
+      {
+        "title": "Tormented Weapon Statue",
+        "value": 1,
+        "unlock_with": "Tormented",
+        "unlock_count": 1
+      },
+      {
+        "title": "Oppressor Weapon Statue",
+        "value": 1,
+        "unlock_with": "Oppressor",
+        "unlock_count": 1
+      },
+      {
+        "title": "5 Weapon Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 5
+      },
+      {
+        "title": "11 Weapon Statues (Full Display)",
+        "value": 2,
+        "unlock_with": "",
+        "unlock_count": 11
+      },
+      {
+        "title": "15 Weapon Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 15
+      }
+    ],
+    "honor": [
+      {
+        "title": "Accounts Linked",
+        "value": 3,
+        "unlock_with": "",
+        "unlock_count": 0
+      },
+      {
+        "title": "Any Statue",
+        "value": 2,
+        "unlock_with": "",
+        "unlock_count": 1
+      },
+      {
+        "title": "1 PvP Statue",
+        "value": 3,
+        "unlock_with": [
+          "Eternal Champion",
+          "Eternal Commander",
+          "Eternal Gladiator",
+          "Eternal Hero",
+          "Eternal Zaishen Supporter",
+          "Eternal Codex Disciple"
+        ],
+        "unlock_count": 1
+      },
+      {
+        "title": "5 Statues (Full Display)",
+        "value": 3,
+        "unlock_with": "",
+        "unlock_count": 5
+      },
+      {
+        "title": "10 Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 10
+      },
+      {
+        "title": "15 Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 15
+      },
+      {
+        "title": "20 Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 20
+      },
+      {
+        "title": "25 Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 25
+      },
+      {
+        "title": "30 Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 30
+      },
+      {
+        "title": "35 Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 35
+      },
+      {
+        "title": "40 Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 40
+      }
+    ],
+    "devotion": [
+      {
+        "title": "Any Miniature Statue",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 1
+      },
+      {
+        "title": "Rare Miniature Statue",
+        "value": 1,
+        "unlock_with": "Rare",
+        "unlock_count": 1
+      },
+      {
+        "title": "Unique Miniature Statue",
+        "value": 1,
+        "unlock_with": "Unique",
+        "unlock_count": 1
+      },
+      {
+        "title": "20 Miniature Statues",
+        "value": 2,
+        "unlock_with": "",
+        "unlock_count": 20
+      },
+      {
+        "title": "30 Miniature Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 30
+      },
+      {
+        "title": "40 Miniature Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 40
+      },
+      {
+        "title": "50 Miniature Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 50
+      }
+    ],
+    "fellowship": [
+      {
+        "title": "Any Hero Statue",
+        "value": 1,
+        "unlock_with": [
+          "Zenmai",
+          "Norgu",
+          "Goren",
+          "Zhed Shadowhoof",
+          "General Morgahn",
+          "Margrid the Sly",
+          "Tahlkora",
+          "Razah",
+          "Master of Whispers",
+          "Koss",
+          "Dunkoro",
+          "Melonni",
+          "Acolyte Jin",
+          "Acolyte Sousuke",
+          "Vekk",
+          "Livia",
+          "Hayda",
+          "Ogden Stonehealer",
+          "Pyre Fierceshot",
+          "Jora",
+          "Kahmu",
+          "Xandra",
+          "Anton",
+          "Gwen",
+          "Animal Companion",
+          "Olias",
+          "M.O.X."
+        ],
+        "unlock_count": 1
+      },
+      {
+        "title": "Any Pet Statue",
+        "value": 1,
+        "unlock_with": [
+          "Black Moa",
+          "Imperial Phoenix",
+          "Black Widow Spider"
+        ],
+        "unlock_count": 1
+      },
+      {
+        "title": "Any Rare Pet Statue",
+        "value": 1,
+        "unlock_with": [
+          "Black Moa",
+          "Imperial Phoenix",
+          "Black Widow Spider"
+        ],
+        "unlock_count": 1
+      },
+      {
+        "title": "5 Companion Statues (Full Display)",
+        "value": 2,
+        "unlock_with": "",
+        "unlock_count": 5
+      },
+      {
+        "title": "10 Companion Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 10
+      },
+      {
+        "title": "20 Companion Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 20
+      },
+      {
+        "title": "30 Companion Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 30
+      }
+    ],
+    "resilience": [
+      {
+        "title": "Any Armor Statue",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 1
+      },
+      {
+        "title": "3 Armor Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 3
+      },
+      {
+        "title": "5 Armor Statues (Full display)",
+        "value": 2,
+        "unlock_with": "",
+        "unlock_count": 5
+      },
+      {
+        "title": "7 Armor Statues",
+        "value": 1,
+        "unlock_with": "",
+        "unlock_count": 7
+      },
+      {
+        "title": "Kurzick or Luxon Armor Statue",
+        "value": 1,
+        "unlock_with": [
+          "Elite Luxon Armor",
+          "Elite Kurzick Armor"
+        ],
+        "unlock_count": 1
+      },
+      {
+        "title": "Vabbian Armor Statue",
+        "value": 1,
+        "unlock_with": "Vabbian Armor",
+        "unlock_count": 1
+      },
+      {
+        "title": "Obsidian Armor Statue",
+        "value": 1,
+        "unlock_with": "Obsidian Armor",
+        "unlock_count": 1
+      }
+    ]
+  }
+}
