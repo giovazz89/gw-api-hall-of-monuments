@@ -1,413 +1,413 @@
 {
   "character": {
     "devotion": {
-      "Common": 7,
-      "Uncommon": 7,
-      "Rare": 7,
-      "Unique": 7
+      "Gewöhnliche": 7,
+      "Ungewöhnliche": 7,
+      "Seltene": 7,
+      "Einzigartige": 7
     },
     "fellowship": {
       "Zenmai": 1,
       "Norgu": 1,
       "Goren": 1,
-      "Zhed Shadowhoof": 1,
+      "Zhed Schattenhuf": 1,
       "General Morgahn": 1,
-      "Margrid the Sly": 1,
+      "Margrid die Listige": 1,
       "Tahlkora": 1,
       "Razah": 1,
-      "Master of Whispers": 1,
+      "Meister der Gerüchte": 1,
       "Koss": 1,
       "Dunkoro": 1,
       "Melonni": 1,
-      "Acolyte Jin": 1,
-      "Acolyte Sousuke": 1,
+      "Akolythin Jin": 1,
+      "Akolythin Sousuke": 1,
       "Vekk": 1,
       "Livia": 1,
       "Hayda": 1,
-      "Ogden Stonehealer": 1,
-      "Pyre Fierceshot": 1,
+      "Ogden Steinheiler": 1,
+      "Brandor Grimmflamm": 1,
       "Jora": 1,
       "Kahmu": 1,
       "Xandra": 1,
       "Anton": 1,
       "Gwen": 1,
-      "Animal Companion": 1,
-      "Black Moa": 1,
-      "Imperial Phoenix": 1,
-      "Black Widow Spider": 1,
+      "Tiergefährte": 1,
+      "Schwarzer Moa": 1,
+      "Phönix": 1,
+      "Schwarze Witwe": 1,
       "Olias": 1,
       "M.O.X.": 1
     },
     "honor": {
-      "Eternal Champion": 1,
-      "Eternal Commander": 1,
-      "Eternal Skillz": 1,
-      "Eternal Gladiator": 1,
-      "Eternal Hero": 1,
-      "Eternal Lightbringer": 1,
-      "Eternal Bookah": 1,
-      "Eternal Delver": 1,
-      "Eternal Slayer": 1,
-      "Eternal Ebon Vanguard Agent": 1,
-      "Eternal Defender of Ascalon": 1,
-      "Eternal Tyrian Cartographer": 1,
-      "Eternal Guardian of Tyria": 1,
-      "Eternal Protector of Tyria": 1,
-      "Eternal Tyrian Skill Hunter": 1,
-      "Eternal Tyrian Vanquisher": 1,
-      "Eternal Canthan Cartographer": 1,
-      "Eternal Guardian of Cantha": 1,
-      "Eternal Protector of Cantha": 1,
-      "Eternal Canthan Skill Hunter": 1,
-      "Eternal Canthan Vanquisher": 1,
-      "Eternal Savior of the Kurzicks": 1,
-      "Eternal Savior of the Luxons": 1,
-      "Eternal Elonian Cartographer": 1,
-      "Eternal Guardian of Elona": 1,
-      "Eternal Protector of Elona": 1,
-      "Eternal Elonian Skill Hunter": 1,
-      "Eternal Elonian Vanquisher": 1,
-      "Eternal Ale-Hound": 1,
-      "Eternal Party Animal": 1,
-      "Eternal Master of the North": 1,
-      "Eternal Legendary Cartographer": 1,
-      "Eternal Legendary Guardian": 1,
-      "Eternal Legendary Skill Hunter": 1,
-      "Eternal Legendary Vanquisher": 1,
-      "Eternal Fortune": 1,
-      "Eternal Sweet Tooth": 1,
-      "Eternal Spearmarshal": 1,
-      "Eternal Survivor": 1,
+      "Unsterblicher Champion": 1,
+      "Unsterblicher Kommandant": 1,
+      "Unsterblicher Spieler": 1,
+      "Unsterblicher Gladiator": 1,
+      "Unsterblicher Held": 1,
+      "Ewiger Lichtbringer": 1,
+      "Ewiger Bookah": 1,
+      "Ewiger Ergründer": 1,
+      "Ewiger Töter": 1,
+      "Ewiger Ebon-Vorhut-Agent": 1,
+      "Ewiger Verteidiger von Ascalon": 1,
+      "Ewiger tyrianischer Kartograph": 1,
+      "Ewiger Wächter von Tyria": 1,
+      "Ewiger Beschützer von Tyria": 1,
+      "Ewiger Tyria-Fertigkeiten-Jäger": 1,
+      "Ewiger tyrianischer Bezwinger": 1,
+      "Ewiger canthanischer Kartograph": 1,
+      "Ewiger Wächter von Cantha": 1,
+      "Ewiger Beschützer von Cantha": 1,
+      "Ewiger Cantha-Fertigkeiten-Jäger": 1,
+      "Ewiger canthanischer Bezwinger": 1,
+      "Ewiger Retter der Kurzick": 1,
+      "Ewiger Retter der Luxons": 1,
+      "Ewiger elonischer Kartograph": 1,
+      "Ewiger Wächter von Elona": 1,
+      "Ewiger Beschützer von Elona": 1,
+      "Ewiger Elona-Fertigkeiten-Jäger": 1,
+      "Ewiger elonischer Bezwinger": 1,
+      "Ewiger Bierzecher": 1,
+      "Ewiger Partylöwe": 1,
+      "Ewiger Meister des Nordens": 1,
+      "Ewiger legendärer Karthograph": 1,
+      "Ewiger legendärer Wächter": 1,
+      "Ewiger legendärer Fertigkeiten-Jäger": 1,
+      "Ewiger legendärer Bezwinger": 1,
+      "Ewiger Reichtum": 1,
+      "Ewiges Schleckermaul": 1,
+      "Ewiger Speermarschall": 1,
+      "Ewiger Überlebender": 1,
       "": 1,
-      "Eternal Treasure Hunter": 1,
-      "Eternal Misfortune": 1,
-      "Eternal Source of Wisdom": 1,
-      "Eternal Hero of Tyria": 1,
-      "Eternal Hero of Cantha": 1,
-      "Eternal Hero of Elona": 1,
-      "Eternal Conqueror of Sorrow's Furnace": 1,
-      "Eternal Conqueror of the Deep": 1,
-      "Eternal Conqueror of Urgoz's Warren": 1,
-      "Eternal Conqueror of the Fissure of Woe": 1,
-      "Eternal Conqueror of the Underworld": 1,
-      "Eternal Conqueror of the Domain of Anguish": 1,
-      "Eternal Zaishen Supporter": 1,
-      "Eternal Codex Disciple": 1
+      "Ewiger Schatz-Jäger": 1,
+      "Ewiges Unglück": 1,
+      "Ewige Quelle der Weisheit": 1,
+      "Ewiger Held von Tyria": 1,
+      "Ewiger Held von Cantha": 1,
+      "Ewiger Held von Elona": 1,
+      "Ewiger Bezwinger des Hochofens der Betrübnis": 1,
+      "Ewiger Bezwinger der Tiefe": 1,
+      "Ewiger Bezwinger von Urgoz' Bau": 1,
+      "Ewiger Bezwinger des Risses des Kummers": 1,
+      "Ewiger Bezwinger der Unterwelt": 1,
+      "Ewiger Bezwinger der Domäne der Pein": 1,
+      "Ewiger Anhänger der Zaishen": 1,
+      "Kodex-Kodex-Adept": 1
     },
     "resilience": {
-      "Elite Canthan Armor": 1,
-      "Elite Exotic Armor": 1,
-      "Elite Kurzick Armor": 1,
-      "Elite Luxon Armor": 1,
-      "Imperial Ascended Armor": 1,
-      "Ancient Armor": 1,
-      "Elite Sunspear Armor": 1,
-      "Vabbian Armor": 1,
-      "Primeval Armor": 1,
-      "Asuran Armor": 1,
-      "Norn Armor": 1,
-      "Silver Eagle Armor": 1,
-      "Monument Armor": 1,
-      "Obsidian Armor": 1,
-      "Granite Citadel Elite Armor": 1,
-      "Granite Citadel Exclusive Armor": 1,
-      "Granite Citadel Ascended Armor": 1,
-      "Marhan's Grotto Elite Armor": 1,
-      "Marhan's Grotto Exclusive Armor": 1,
-      "Marhan's Grotto Ascended Armor": 1
+      "Elite Cantha-Rüstung": 1,
+      "Exotische Elite-Rüstung": 1,
+      "Elite Kurzick-Rüstung": 1,
+      "Elite Luxon-Rüstung": 1,
+      "Kaiser-Rüstung der Erhabenheit": 1,
+      "Alte Rüstung": 1,
+      "Elite-Sonnenspeer-Rüstung": 1,
+      "Vaabi-Rüstung": 1,
+      "Altehrwürdige Rüstung": 1,
+      "Asura-Rüstung": 1,
+      "Norn-Rüstung": 1,
+      "Silberadler-Rüstung": 1,
+      "Monument-Rüstung": 1,
+      "Obsidian-Rüstung": 1,
+      "Elite-Rüstung der Granitzitadelle": 1,
+      "Exklusive Rüstung der Granitzitadelle": 1,
+      "Erhabene Rüstung der Granitzitadelle": 1,
+      "Marhans-Grotte-Elite-Rüstung": 1,
+      "Exklusive Marhans-Grotte-Rüstung": 1,
+      "Erhabene Marhans-Grotte-Rüstung": 1
     },
     "valor": {
-      "Destroyer Axe": 1,
-      "Destroyer Bow": 1,
-      "Destroyer Daggers": 1,
-      "Destroyer Focus": 1,
-      "Destroyer Maul": 1,
-      "Destroyer Scepter": 1,
-      "Destroyer Scythe": 1,
-      "Destroyer Shield": 1,
-      "Destroyer Spear": 1,
-      "Destroyer Staff": 1,
-      "Destroyer Sword": 1,
-      "Tormented Axe": 1,
-      "Tormented Bow": 1,
-      "Tormented Daggers": 1,
-      "Tormented Focus": 1,
-      "Tormented Maul": 1,
-      "Tormented Scepter": 1,
-      "Tormented Scythe": 1,
-      "Tormented Shield": 1,
-      "Tormented Spear": 1,
-      "Tormented Staff": 1,
-      "Tormented Sword": 1,
-      "Oppressor Axe": 1,
-      "Oppressor Bow": 1,
-      "Oppressor Daggers": 1,
-      "Oppressor Focus": 1,
-      "Oppressor Maul": 1,
-      "Oppressor Scepter": 1,
-      "Oppressor Scythe": 1,
-      "Oppressor Shield": 1,
-      "Oppressor Spear": 1,
-      "Oppressor Staff": 1,
-      "Oppressor Sword": 1
+      "Zerstörer-Axt": 1,
+      "Zerstörer-Bogen": 1,
+      "Zerstörer-Dolche": 1,
+      "Zerstörer-Fokus": 1,
+      "Zerstörer-Schlägel": 1,
+      "Zerstörer-Zepter": 1,
+      "Zerstörer-Sense": 1,
+      "Zerstörer-Schild": 1,
+      "Zerstörer-Speer": 1,
+      "Zerstörer-Stab": 1,
+      "Zerstörer-Schwert": 1,
+      "Qualaxt": 1,
+      "Qual-Bogen": 1,
+      "Qual-Dolche": 1,
+      "Qual-Fokus": 1,
+      "Qual-Schlägel": 1,
+      "Qual-Zepter": 1,
+      "Qual-Sense": 1,
+      "Qual-Schild": 1,
+      "Qual-Speer": 1,
+      "Qual-Stab": 1,
+      "Qual-Schwert": 1,
+      "Unterdrücker-Axt": 1,
+      "Unterdrücker-Bogen": 1,
+      "Unterdrücker-Dolche": 1,
+      "Unterdrücker-Fokus": 1,
+      "Unterdrücker-Hammer": 1,
+      "Unterdrücker-Zepter": 1,
+      "Unterdrücker-Sense": 1,
+      "Unterdrücker-Schild": 1,
+      "Unterdrücker-Speer": 1,
+      "Unterdrücker-Stab": 1,
+      "Unterdrücker-Schwert": 1
     }
   },
   "rewards": {
     "regular": [
       [
         {
-          "name": "Heritage Shoes, Boots, Warboots",
-          "desc": "Heritage footwear for light, medium, and heavy armor professions",
-          "ldesc": "Heritage footwear that evokes the majesty of bygone days for light, medium, and heavy armor professions."
+          "name": "Vermächtnis-Schuhe/Stiefel/Kriegsstiefel",
+          "desc": "Vermächtnis-Schuhwerk für leichte, mittlere und schwere Rüstungsklassen",
+          "ldesc": "Vermächtnis-Schuhwerk, das Erinnerungen an den Ruhm vergangener Zeiten weckt, für leichte, mittlere und schwere Rüstungsklassen."
         }
       ],
       [
         {
-          "name": "Heritage Pants, Legguards, Legplates",
-          "desc": "Heritage legwear for light, medium, and heavy armor professions",
-          "ldesc": "Heritage legwear that give your Guild Wars 2 character a classic look whether they wear light, medium, or heavy armor."
+          "name": "Vermächtnis-Hosen/Beinschützer/Beinplatten",
+          "desc": "Vermächtnis-Beinbekleidung für leichte, mittlere und schwere Rüstungsklassen",
+          "ldesc": "Vermächtnis-Beinbekleidung, die eurem Guild Wars 2-Charakter ein klassisches Aussehen verleiht, für leichte, mittlere und schwere Rüstungsklassen."
         }
       ],
       [
         {
-          "name": "Heritage Great Coat, Jerkin, Warplate",
-          "desc": "Heritage coats for light, medium, and heavy armor professions",
-          "ldesc": "Vintage Tyrian clothing with different designs for light, medium, and heavy armor professions."
+          "name": "Vermächtnis-Soldatenmantel/Jacke/Kriegsplatte",
+          "desc": "Vermächtnis-Bekleidung für leichte, mittlere und schwere Rüstungsklassen",
+          "ldesc": "Klassische tyrianische Bekleidung mit unterschiedlichen Designs für leichte, mittlere und schwere Rüstungsklassen."
         }
       ],
       [
         {
-          "name": "Heritage Gloves, Armguards, Gauntlets",
-          "desc": "Heritage handwear for light, medium, and heavy armor professions",
-          "ldesc": "Legacy gloves from Tyrian history designed for light, medium, and heavy armor professions."
+          "name": "Vermächtnis-Handschuhe/Armschutz/Stulpenhandschuhe",
+          "desc": "Vermächtnis-Handschuhe für leichte, mittlere und schwere Rüstungsklassen",
+          "ldesc": "Historische tyrianische Handschuhe für leichte, mittlere und schwere Rüstungsklassen."
         }
       ],
       [
         {
-          "name": "Heritage Mantle, Shoulderpads, Pauldrons",
-          "desc": "Heritage shoulder covering for light, medium, and heavy armor professions",
-          "ldesc": "Pieces of shoulder armor that recall centuries past, designed for light, medium, and heavy armor professions."
+          "name": "Vermächtnis-Überwurf/Schulterpolster/Schulterschutz",
+          "desc": "Vermächtnis-Schultern covering für leichte, mittlere und schwere Rüstungsklassen",
+          "ldesc": "Rüstungsteile für die Schultern, die von längst vergangenen Zeitaltern künden, für leichte, mittlere und schwere Rüstungsklassen."
         }
       ],
       [
         {
-          "name": "Heritage Masque, Bandana, Warhelm",
-          "desc": "Heritage headwear for light, medium, and heavy armor professions",
-          "ldesc": "Headwear from Tyrian history for light, medium, and heavy armor professions."
+          "name": "Vermächtnis-Maske/Bandana/Kriegshelm",
+          "desc": "Vermächtnis-Kopfbedeckung für leichte, mittlere und schwere Rüstungsklassen",
+          "ldesc": "Historische tyrianische Kopfbedeckung für leichte, mittlere und schwere Rüstungsklassen."
         }
       ],
       [
         {
-          "name": "Gnarled Walking Stick",
-          "desc": "An ancient staff",
-          "ldesc": "A gnarled old staff that glows with ancient power."
+          "name": "Knorriger Gehstock",
+          "desc": "Ein alter Stab",
+          "ldesc": "Ein knorriger alter Stab, der vor uralter Macht leuchtet."
         }
       ],
       [
         {
-          "name": "Living Shortbow",
-          "desc": "An organic bow",
-          "ldesc": "A vine-wrapped living weapon."
+          "name": "Lebender Kurzbogen",
+          "desc": "Ein organischer Bogen",
+          "ldesc": "Eine von Ranken umschlungene lebende Waffe."
         }
       ],
       [
         {
-          "name": "Orange Tabby Cat",
-          "desc": "A feline mini-pet",
-          "ldesc": "An orange cat mini-pet that will keep your Guild Wars 2 character company."
+          "name": "Mini Orangefarbene Tigerkatze",
+          "desc": "Ein katzenartiges Mini-Haustier",
+          "ldesc": "Eine orangefarbene Katze als Mini-Tiergefährte, die eurem Guild Wars 2-Charakter Gesellschaft leistet."
         }
       ],
       [
         {
-          "name": "Fiery Dragon Sword",
-          "desc": "A flaming dragon blade",
-          "ldesc": "A stylized fire-breathing dragon sword."
+          "name": "Feuriges Drachen-Schwert",
+          "desc": "Eine flammende Drachenklinge",
+          "ldesc": "Ein elegantes Feuer speiendes Drachenschwert."
         }
       ],
       [
         {
-          "name": "Diamond Aegis",
-          "desc": "A brilliant diamond shield",
-          "ldesc": "A dazzling diamond defense."
+          "name": "Diamanten-Aegis-Schild",
+          "desc": "Ein brillanter Diamantschild",
+          "ldesc": "Eine atemberaubende diamantene Verteidigung."
         }
       ],
       [
         {
-          "name": "Baroque Mask",
-          "desc": "An elegant harlequin mask",
-          "ldesc": "A baroque mask that recalls the festivals of old."
+          "name": "Barock-Maske",
+          "desc": "Eine elegante Harlekin-Maske",
+          "ldesc": "Eine barocke Maske, die an uralte Feste erinnert."
         }
       ],
       [
         {
-          "name": "Centurion's Claw",
-          "desc": "A double-bladed dagger",
-          "ldesc": "A deadly double-bladed dagger worthy of a charr centurion."
+          "name": "Zenturio-Klaue",
+          "desc": "Ein Doppelklingendolch",
+          "ldesc": "Ein tödlicher zweischneidiger Dolch, der eines Charr-Zenturios würdig ist."
         }
       ],
       [
         {
-          "name": "Wheelock Rifle",
-          "desc": "An antique rifle",
-          "ldesc": "A vintage, handcrafted rifle that still packs a punch."
+          "name": "Radschloss-Gewehr",
+          "desc": "Ein antikes Gewehr",
+          "ldesc": "Ein antikes, handgefertigtes Gewehr, das immer noch Durchschlagskraft hat."
         }
       ],
       [
         {
-          "name": "Orrian Baby Chicken",
-          "desc": "An oddly lovable mini-pet",
-          "ldesc": "A creepy, cute little bird mini-pet from corrupted Orr."
+          "name": "Orrianisches Küken",
+          "desc": "Ein seltsam liebenswertes Mini-Haustier",
+          "ldesc": "Ein merkwürdiger aber süßer kleiner Vogel aus dem verdorbenen Orr als Mini-Tiergefährte."
         },
         {
-          "name": "Black Moa",
-          "desc": "A dark-feathered moa for rangers",
-          "ldesc": "A dark-feathered moa animal companion for your ranger."
+          "name": "Schwarzer Moa",
+          "desc": "Ein dunkelgefiederter Moa für Waldläufer",
+          "ldesc": "Ein Moa mit dunklen Federn als Tiergefährte für euren Waldläufer."
         }
       ],
       [
         {
-          "name": "Wayward Wand",
-          "desc": "A clawed scepter",
-          "ldesc": "A clawed wand that pulses with power. "
+          "name": "Eigensinniger Zauberstab",
+          "desc": "Ein Klauenzepter",
+          "ldesc": "Ein klauenbewehrter Stab, der vor Macht pulsiert. "
         }
       ],
       [
         {
-          "name": "Seathunder Pistol",
-          "desc": "An aquatic themed pistol",
-          "ldesc": "An aquatic pistol with a fishy look."
+          "name": "Seedonner-Pistole",
+          "desc": "Eine Pistole mit Wassermotiv",
+          "ldesc": "Eine Meerespistole mit einem fischigen Aussehen."
         }
       ],
       [
         {
-          "name": "Heavenly Bracers",
-          "desc": "Gauntlets of Dwayna",
-          "ldesc": "Bracers that bear the visage of the human goddess Dwayna."
+          "name": "Himmlischer Handschutz",
+          "desc": "Stulpen von Dwayna",
+          "ldesc": "Ein Handschutz, der mit dem Gesicht der menschlichen Göttin Dwayna verziert ist."
         }
       ],
       [
         {
-          "name": "Deldrimor Mace",
-          "desc": "An ancient dwarven mace",
-          "ldesc": "A dwarven weapon forged in the ancient kingdom of Deldrimor."
+          "name": "Deldrimor-Streitkolben",
+          "desc": "Ein alter Zwergenstreitkolben",
+          "ldesc": "Eine Zwergenwaffe, die in den Tiefen des uralten Königsreichs Deldrimor geschmiedet wurde."
         }
       ],
       [
         {
-          "name": "Chimeric Prism",
-          "desc": "A brilliant, colorful focus",
-          "ldesc": "A colorful focus for your spellcaster."
+          "name": "Schimärenprisma",
+          "desc": "Ein brillanter, farbenfroher Fokus",
+          "ldesc": "Ein farbenfroher Fokus für euren Zauberwirker."
         },
         {
-          "name": "Rainbow Jellyfish",
-          "desc": "A spineless aquatic companion for your ranger",
-          "ldesc": "A luminous, multi-colored jellyfish animal companion for your ranger."
+          "name": "Regenbogen-Qualle",
+          "desc": "Ein rückgratloser Wasserbegleiter für euren Waldläufer",
+          "ldesc": "Eine leuchtende, bunte Qualle als Tiergefährte für euren Waldläufer."
         }
       ],
       [
         {
-          "name": "Rockfur Raccoon",
-          "desc": "A woodland mini-pet",
-          "ldesc": "A rascally raccoon minipet for your Guild Wars 2 character."
+          "name": "Felsfell-Waschbär",
+          "desc": "Ein Wald-Mini-Haustier",
+          "ldesc": "Ein frecher Waschbär als Mini-Tiergefährte für euren Guild Wars 2-Charakter."
         }
       ],
       [
         {
-          "name": "Ithas Longbow",
-          "desc": "A legendary longbow",
-          "ldesc": "A bow just like the famed longbow wielded by the hero Lieutenant Thackeray during the Krytan Civil War."
+          "name": "Ithas-Langbogen",
+          "desc": "Ein legendärer Langbogen",
+          "ldesc": "Ein Bogen, der dem berühmten Langbogen ähnelt, den Leutnant Thackeray während des krytischen Bürgerkriegs führte."
         }
       ],
       [
         {
-          "name": "Fellblade",
-          "desc": "An ominous greatsword",
-          "ldesc": "An ominous, intimidating greatsword."
+          "name": "Todesklinge",
+          "desc": "Ein ominöses Großschwert",
+          "ldesc": "Ein unheilvolles und furchteinflößendes Großschwert."
         }
       ],
       [
         {
-          "name": "Icelord's Diadem",
-          "desc": "An icy crown",
-          "ldesc": "A mystical icy crown that won't give you a cold headache."
+          "name": "Eisfürst-Diadem",
+          "desc": "Eine eisige Krone",
+          "ldesc": "Eine mystische eisige Krone, mit der ihr einen kühlen Kopf bewahrt."
         }
       ],
       [
         {
-          "name": "Ice Breaker",
-          "desc": "A mighty hammer of ice",
-          "ldesc": "A gleaming mallet of indestructible ice."
+          "name": "Eisbrecher",
+          "desc": "Ein mächtiger Eishammer",
+          "ldesc": "Ein schimmernder Schlaghammer aus unzerstörbarem Eis."
         },
         {
-          "name": "White Raven Skin",
-          "desc": "A white-feathered raven for your ranger",
-          "ldesc": "A rare albino raven animal companion for your ranger."
+          "name": "Weißer Rabe",
+          "desc": "Ein weißgefiederter Rabe für euren Waldläufer",
+          "ldesc": "Ein seltener Albino-Rabe als Tiergefährte für euren Waldläufer."
         }
       ],
       [
         {
-          "name": "Flaming Beacon",
-          "desc": "An eternally burning torch",
-          "ldesc": "A blazing, stylized torch whose flame never falters."
+          "name": "Flammendes Signal",
+          "desc": "Eine ewig brennende Fackel",
+          "ldesc": "Eine flammende, elegante Fackel, die nie erlischt."
         }
       ],
       [
         {
-          "name": "Red Servitor Golem",
-          "desc": "A loyal golem mini-pet",
-          "ldesc": "A golem mini-pet that will happily tag along with you - just don't expect him to fight!"
+          "name": "Roter Diener-Golem",
+          "desc": "Ein treues Golem-Mini-Haustier",
+          "ldesc": "Ein Golem als Mini-Tiergefährte, der fröhlich mit euch durch die Gegend zieht. Aber erwartet nicht, dass er kämpft!"
         }
       ],
       [
         {
-          "name": "Stygian Reaver",
-          "desc": "A long sought-after axe",
-          "ldesc": "An extremely rare axe of impressive power."
+          "name": "Stygischer Spalter",
+          "desc": "Eine lange gesuchte Axt",
+          "ldesc": "Eine sehr seltene Axt mit beeindruckender Macht."
         }
       ],
       [
         {
-          "name": "Mountaincall Warhorn",
-          "desc": "A great horn from antiquity",
-          "ldesc": "A fabled horn that recalls the glory of the lost human kingdom of Ascalon."
+          "name": "Bergrufer-Kriegshorn",
+          "desc": "Ein großes Horn aus der Antike",
+          "ldesc": "Ein sagenumwobenes Horn, das den Ruhm des verlorenen Menschenkönigreichs Ascalon heraufbeschwört."
         }
       ],
       [
         {
-          "name": "Fire God's Vambraces",
-          "desc": "Fiery gloves of the human god Balthazar",
-          "ldesc": "A set of flaming bracers that bear the image of Balthazar, human god of fire and war."
+          "name": "Feuergott-Armschutz",
+          "desc": "Feurige Handschuhe des Menschengottes Balthazar",
+          "ldesc": "Ein paar flammende Handschützer, die mit dem Abbild Balthasars verziert sind, des menschlichten [sic] Gottes des Feuers und des Kriegs."
         },
         {
-          "name": "Black Widow Spider",
-          "desc": "A deadly spider companion for your ranger",
-          "ldesc": "A sinister spider animal companion for your ranger."
+          "name": "Schwarze Witwe",
+          "desc": "Ein tödlicher Spinnenbegleiter für euren Waldläufer",
+          "ldesc": "Eine bösartige Spinne als Tiergefährte für euren Waldläufer."
         }
       ]
     ],
     "special": {
       "partial": {
-        "name": "All reward items unlocked!",
-        "desc": "Ready to really test yourself? Unlock the remaining titles to secure your place in Tyrian history!"
+        "name": "Alle Belohnungsgegenstände freigeschaltet!",
+        "desc": "Sind Sie bereit, sich wirklich selbst zu testen? Schalte die verbleibenden Titel frei, um deinen Platz in der Tyrianische Geschichte zu sichern!"
       },
       "max": {
         "name": "M-M-M-M-M-MONSTER KILL!",
-        "desc": "Seriously, you crazy."
+        "desc": "Ernsthaft, du verrückt."
       }
     }
   },
   "titles": {
-    "5": "Traveler",
-    "10": "Guild Warrior",
-    "15": "Rift Warden",
-    "20": "Chosen",
-    "25": "Ascendant",
-    "30": "Closer to the Stars",
-    "35": "Ghostly Hero",
-    "40": "Flameseeker",
-    "45": "Legend of the Mists",
-    "50": "Champion of the Gods",
-    "desc": "Reward Title"
+    "5": "Reisender",
+    "10": "Gildenkrieger",
+    "15": "Risswächter",
+    "20": "Auserwählter",
+    "25": "Aufsteigender",
+    "30": "Näher an den Sternen",
+    "35": "Geisterheld",
+    "40": "Flammensucher",
+    "45": "Legende der Nebel",
+    "50": "Champion der Götter",
+    "desc": "Belohnungstitel"
   },
   "cols": {
     "order": [
@@ -420,86 +420,86 @@
     "details": {
       "devotion": {
         "total": 8,
-        "title": "Devotion",
-        "btn": "View Minipets",
+        "title": "Hingabe",
+        "btn": "Miniaturen ansehen",
         "current": 0
       },
       "fellowship": {
         "total": 8,
-        "title": "Fellowship",
-        "btn": "View Heroes & Pets",
+        "title": "Kameradschaft",
+        "btn": "Helden & Tiergefährten ansehen",
         "current": 0
       },
       "honor": {
         "total": 18,
-        "title": "Honor",
-        "btn": "View Titles",
+        "title": "Ehre",
+        "btn": "Titel ansehen",
         "current": 0
       },
       "resilience": {
         "total": 8,
-        "title": "Resilience",
-        "btn": "View Armor",
+        "title": "Unverwüstlichkeit",
+        "btn": "Rüstungen ansehen",
         "current": 0
       },
       "valor": {
         "total": 8,
-        "title": "Valor",
-        "btn": "View Weapons",
+        "title": "Tapferkeit",
+        "btn": "Waffen ansehen",
         "current": 0
       }
     }
   },
   "urls": {
     "wiki": {
-      "_base": "http://wiki.guildwars.com/wiki/",
-      "resilience": "%22Resilience%22#Statues",
-      "devotion": "%22Devotion%22",
-      "fellowship": "%22Fellowship%22",
-      "honor": "%22Honor%22",
-      "valor": "%22Valor%22#Gallery"
+      "_base": "https://www.guildwiki.de/wiki/",
+      "resilience": "%22Unverwüstlichkeit%22",
+      "devotion": "%22Hingabe%22",
+      "fellowship": "%22Kameradschaft%22",
+      "honor": "%22Ehre%22",
+      "valor": "%22Tapferkeit%22"
     }
   },
   "rules": {
     "valor": [
       {
-        "title": "Any Weapon Statue",
+        "title": "Alle Waffen-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 1
       },
       {
-        "title": "Destroyer Weapon Statue",
+        "title": "Zerstörer-Waffen-Statue",
         "value": 1,
-        "unlock_with": "Destroyer",
+        "unlock_with": "Zerstörer",
         "unlock_count": 1
       },
       {
-        "title": "Tormented Weapon Statue",
+        "title": "Qual-Waffen-Statue",
         "value": 1,
-        "unlock_with": "Tormented",
+        "unlock_with": "Qual",
         "unlock_count": 1
       },
       {
-        "title": "Oppressor Weapon Statue",
+        "title": "Unterdrücker-Waffen-Statue",
         "value": 1,
-        "unlock_with": "Oppressor",
+        "unlock_with": "Unterdrücker",
         "unlock_count": 1
       },
       {
-        "title": "5 Weapon Statues",
+        "title": "5 Waffen-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 5
       },
       {
-        "title": "11 Weapon Statues (Full Display)",
+        "title": "11 Waffen-Statuen (ganzes Display)",
         "value": 2,
         "unlock_with": "",
         "unlock_count": 11
       },
       {
-        "title": "15 Weapon Statues",
+        "title": "15 Waffen-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 15
@@ -507,74 +507,74 @@
     ],
     "honor": [
       {
-        "title": "Accounts Linked",
+        "title": "Verknüpfte Accounts",
         "value": 3,
         "unlock_with": "",
         "unlock_count": 0
       },
       {
-        "title": "Any Statue",
+        "title": "Alle Statuen",
         "value": 2,
         "unlock_with": "",
         "unlock_count": 1
       },
       {
-        "title": "1 PvP Statue",
+        "title": "1 PvP-Statue",
         "value": 3,
         "unlock_with": [
-          "Eternal Champion",
-          "Eternal Commander",
-          "Eternal Gladiator",
-          "Eternal Hero",
-          "Eternal Zaishen Supporter",
-          "Eternal Codex Disciple"
+          "Unsterblicher Champion",
+          "Unsterblicher Kommandant",
+          "Unsterblicher Gladiator",
+          "Unsterblicher Held",
+          "Ewiger Anhänger der Zaishen",
+          "Kodex-Kodex-Adept"
         ],
         "unlock_count": 1
       },
       {
-        "title": "5 Statues (Full Display)",
+        "title": "5 Statuen (ganzes Display)",
         "value": 3,
         "unlock_with": "",
         "unlock_count": 5
       },
       {
-        "title": "10 Statues",
+        "title": "10 Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 10
       },
       {
-        "title": "15 Statues",
+        "title": "15 Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 15
       },
       {
-        "title": "20 Statues",
+        "title": "20 Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 20
       },
       {
-        "title": "25 Statues",
+        "title": "25 Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 25
       },
       {
-        "title": "30 Statues",
+        "title": "30 Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 30
       },
       {
-        "title": "35 Statues",
+        "title": "35 Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 35
       },
       {
-        "title": "40 Statues",
+        "title": "40 Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 40
@@ -582,43 +582,43 @@
     ],
     "devotion": [
       {
-        "title": "Any Miniature Statue",
+        "title": "Alle Miniatur-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 1
       },
       {
-        "title": "Rare Miniature Statue",
+        "title": "Seltene Miniatur-Statue",
         "value": 1,
-        "unlock_with": "Rare",
+        "unlock_with": "Seltene",
         "unlock_count": 1
       },
       {
-        "title": "Unique Miniature Statue",
+        "title": "Einzigartige Miniatur-Statue",
         "value": 1,
-        "unlock_with": "Unique",
+        "unlock_with": "Einzigartige",
         "unlock_count": 1
       },
       {
-        "title": "20 Miniature Statues",
+        "title": "20 Miniatur-Statuen",
         "value": 2,
         "unlock_with": "",
         "unlock_count": 20
       },
       {
-        "title": "30 Miniature Statues",
+        "title": "30 Miniatur-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 30
       },
       {
-        "title": "40 Miniature Statues",
+        "title": "40 Miniatur-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 40
       },
       {
-        "title": "50 Miniature Statues",
+        "title": "50 Miniatur-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 50
@@ -626,79 +626,79 @@
     ],
     "fellowship": [
       {
-        "title": "Any Hero Statue",
+        "title": "Alle Helden-Statuen",
         "value": 1,
         "unlock_with": [
           "Zenmai",
           "Norgu",
           "Goren",
-          "Zhed Shadowhoof",
+          "Zhed Schattenhuf",
           "General Morgahn",
-          "Margrid the Sly",
+          "Margrid die Listige",
           "Tahlkora",
           "Razah",
-          "Master of Whispers",
+          "Meister der Gerüchte",
           "Koss",
           "Dunkoro",
           "Melonni",
-          "Acolyte Jin",
-          "Acolyte Sousuke",
+          "Akolythin Jin",
+          "Akolythin Sousuke",
           "Vekk",
           "Livia",
           "Hayda",
-          "Ogden Stonehealer",
-          "Pyre Fierceshot",
+          "Ogden Steinheiler",
+          "Brandor Grimmflamm",
           "Jora",
           "Kahmu",
           "Xandra",
           "Anton",
           "Gwen",
-          "Animal Companion",
+          "Tiergefährte",
           "Olias",
           "M.O.X."
         ],
         "unlock_count": 1
       },
       {
-        "title": "Any Pet Statue",
+        "title": "Alle Begleiter-Statuen",
         "value": 1,
         "unlock_with": [
-          "Black Moa",
-          "Imperial Phoenix",
-          "Black Widow Spider"
+          "Schwarzer Moa",
+          "Phönix",
+          "Schwarze Witwe"
         ],
         "unlock_count": 1
       },
       {
-        "title": "Any Rare Pet Statue",
+        "title": "Alle seltenen Begleiter-Statuen",
         "value": 1,
         "unlock_with": [
-          "Black Moa",
-          "Imperial Phoenix",
-          "Black Widow Spider"
+          "Schwarzer Moa",
+          "Phönix",
+          "Schwarze Witwe"
         ],
         "unlock_count": 1
       },
       {
-        "title": "5 Companion Statues (Full Display)",
+        "title": "5 Gefährten-Statuen (ganzes Display)",
         "value": 2,
         "unlock_with": "",
         "unlock_count": 5
       },
       {
-        "title": "10 Companion Statues",
+        "title": "10 Gefährten-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 10
       },
       {
-        "title": "20 Companion Statues",
+        "title": "20 Gefährten-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 20
       },
       {
-        "title": "30 Companion Statues",
+        "title": "30 Gefährten-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 30
@@ -706,48 +706,48 @@
     ],
     "resilience": [
       {
-        "title": "Any Armor Statue",
+        "title": "Alle Rüstungs-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 1
       },
       {
-        "title": "3 Armor Statues",
+        "title": "3 Rüstungs-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 3
       },
       {
-        "title": "5 Armor Statues (Full display)",
+        "title": "5 Rüstungs-Statuen (ganzes Display)",
         "value": 2,
         "unlock_with": "",
         "unlock_count": 5
       },
       {
-        "title": "7 Armor Statues",
+        "title": "7 Rüstungs-Statuen",
         "value": 1,
         "unlock_with": "",
         "unlock_count": 7
       },
       {
-        "title": "Kurzick or Luxon Armor Statue",
+        "title": "Kurzick- oder Luxon-Rüstungs-Statue",
         "value": 1,
         "unlock_with": [
-          "Elite Luxon Armor",
-          "Elite Kurzick Armor"
+          "Elite Luxon-Rüstung",
+          "Elite Kurzick-Rüstung"
         ],
         "unlock_count": 1
       },
       {
-        "title": "Vabbian Armor Statue",
+        "title": "Vaabi-Rüstungs-Statue",
         "value": 1,
-        "unlock_with": "Vabbian Armor",
+        "unlock_with": "Vaabi-Rüstung",
         "unlock_count": 1
       },
       {
-        "title": "Obsidian Armor Statue",
+        "title": "Obsidian-Rüstungs-Statue",
         "value": 1,
-        "unlock_with": "Obsidian Armor",
+        "unlock_with": "Obsidian-Rüstung",
         "unlock_count": 1
       }
     ]
